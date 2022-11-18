@@ -5,7 +5,7 @@
 }
 
 .all{
-    background-image: url(../landing-page/hero.png);
+    background-image: url(./hero.png);
     height: 50em;
     background-repeat: no-repeat;
     padding: 40px;
