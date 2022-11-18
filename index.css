@@ -6,8 +6,9 @@
 
 .all{
     background-image: url(./hero.png);
-    height: 115vh;
+    height: 100vh;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .btn7{
