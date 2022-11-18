@@ -1,0 +1,273 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.all{
+    background-image: url(../landing-page/hero.png);
+    height: 50em;
+    background-repeat: no-repeat;
+    padding: 40px;
+}
+
+.btn7{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 25px;
+}
+
+ .container{ 
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    height: 150px;
+} 
+
+.logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 10px;
+}
+
+.nav ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+.the{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    width: 600px;
+    /* border: 1px solid red; */
+    height: 100px;
+    margin-left: 360px;
+    padding: 15px;
+}
+
+.he{
+    color: white;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.input{
+    /* margin-left: 360px; */
+    height: 45px;
+    width: 500px;
+    font-size: 25px;
+    padding: 15px;
+    border: none;
+}
+
+.input-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.up{
+    height: 45px;
+    /* margin-top: 20px; */
+    padding: 15px;
+    color: white;
+    background-color: green;
+    border: none;
+}
+
+.lorem{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+
+.text{
+    /* border: 1px solid black; */
+    width: 400px;
+    height: 250px;
+    /* font-size: 10px; */
+}
+
+.us{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    padding-right: 45px;
+    color: lightskyblue;
+}
+
+.img{
+    height: 250px;
+}
+
+.btn{
+    margin-left: 280px;
+    font-size: 20px;
+    color: white;
+    background-color: lightskyblue;
+    padding: 5px;
+    border: none;
+}
+
+.long{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+
+.img2{
+    height: 250px;
+    padding: 50px;
+}
+
+.us2{
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    padding-right: 45px;
+    color: lightskyblue;
+}
+
+.text2{
+    /* border: 1px solid black; */
+    height: 250px;
+    padding: 50px;
+}
+
+.text3{
+    display: flex;
+    justify-content: center;
+    color: lightskyblue;
+    padding: 40px;
+}
+
+.dig{
+    height: 20em;
+    margin: 70px;
+}
+
+.all2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.holder{
+    /* border: 1px solid green; */
+    width: 250px;
+}
+
+.holder2{
+    /* border: 1px solid green; */
+    width: 250px;
+}
+
+.holder3{
+    /* border: 1px solid green; */
+    width: 250px;
+}
+
+.not{
+    color: lightskyblue;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.not2{
+    color: lightskyblue;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.not3{
+    color: lightskyblue;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.som{
+    margin-left: 55px;
+}
+
+.get{
+    background-color: lightskyblue;
+    height: 160px;
+    padding: 30px;
+}
+
+.dop{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 20px;
+}
+
+.bit{
+    height: 30px;
+}
+
+.book{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    height: 10em;
+}
+
+.pit .pit2{
+    /* border: 1px solid red; */
+    width: 220px;
+    padding: 10px;
+}
+
+.col-2 li{
+    list-style-type: none;
+}
+
+.nav{
+    text-decoration: none;
+    color: lightslategrey;
+    padding: 10px;
+}
+
+.put{
+    border: 1px solid lightskyblue;
+}
+
+.on{
+    background-color: lightskyblue;
+    border: 1px solid lightskyblue;
+}
+
+.copy{
+    display: flex;
+    justify-content: space-around;
+    height: 5em;
+}
+
+.yes{
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.pls{
+    display: flex;
+    gap: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+  }
