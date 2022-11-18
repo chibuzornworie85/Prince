@@ -8,7 +8,6 @@
     background-image: url(./hero.png);
     height: 50em;
     background-repeat: no-repeat;
-    padding: 40px;
 }
 
 .btn7{
@@ -23,6 +22,7 @@
     justify-content: space-around;
     color: white;
     height: 150px;
+    padding: 40px;
 } 
 
 .logo{
@@ -217,6 +217,7 @@
 .bit{
     height: 30px;
 }
+
 
 .book{
     display: flex;
