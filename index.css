@@ -127,6 +127,7 @@
     display: flex;
     justify-content: space-around;
     background-color: lightgray;
+    background-size: cover;
 }
 
 .img2{
@@ -207,6 +208,7 @@
     background-color: lightskyblue;
     height: 160px;
     padding: 30px;
+    background-size: cover;
 }
 
 .dop{
