@@ -6,7 +6,7 @@
 
 .all{
     background-image: url(./hero.png);
-    height: 120vh;
+    height: 50em;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,11 +17,12 @@
     border: none;
     height: 30px;
     border-radius: 4px;
+    padding: 10px;
 }
 
  .container{ 
     display: flex;
-    gap: 35em;
+    gap: 30em;
     color: white;
     height: 150px;
     padding: 40px;
@@ -140,13 +141,16 @@
     background-color: lightskyblue;
     padding: 5px;
     border: none;
+    height: 38px;
     margin-top: 60px;
+    padding: 10px 15px 15px 15px;
+
 }
 
 .long{
     display: flex;
     justify-content: space-around;
-    background-color: lightslategrey;
+    background-color: lightgray;
     background-size: cover;
 }
 
